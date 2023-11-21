@@ -53,6 +53,10 @@
 - `lang` 字段是预设字段，这里可以前往文件夹 `lang/` 下查看所有可选语言
 - `basicLang` 字段是基础语言，即 ts 内置预设的语言选择，可以前往 [这里](https://github.com/microsoft/TypeScript/tree/main/src/loc/lcl) 查看所有可选语言
 
+### 自行设定语句
+
+在包根目录下面有个 `customLang.js`，此处的语句优先级为最高，直接进行增加即可，其附带类型提示
+
 ## 贡献本项目
 
 贡献方向分为以下几种：
