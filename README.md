@@ -25,6 +25,7 @@
 
 #### 作为项目依赖
 
+- 需要下载 `typescript` 包作为前置依赖：`npm i typescript --save-dev`
 - 下载依赖：`npm i --save-dev zako-typescript`
 - 在 VSCode 设置中找到 `typescript.tsdk` 选项，并将他指向 `node_modules` 下的 `zako-typescript/lib` 文件夹
   

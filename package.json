@@ -1,17 +1,18 @@
 {
   "name": "zako-typescript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "files": [
-    "config.json",
     "/lib",
     "/lang",
-    "/package.json",
-    "/README.md",
-    "/bin"
+    "/bin",
+    "config.json",
+    "package.json",
+    "README.md",
+    "customLang.js"
   ],
-  "devDependencies": {
+  "dependencies": {
     "typescript": "latest"
   },
   "keywords": [
