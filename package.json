@@ -1,0 +1,22 @@
+{
+  "name": "zako-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "config.json",
+    "/lib",
+    "/lang",
+    "/package.json",
+    "/README.md",
+    "/bin"
+  ],
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT"
+}
