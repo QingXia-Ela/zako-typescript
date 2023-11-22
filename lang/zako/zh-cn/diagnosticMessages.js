@@ -5416,7 +5416,7 @@ var msg = {
   ],
   "export_can_only_be_used_in_TypeScript_files_8003": [
     "\"export =\" 只能在 TypeScript 文件中使用。",
-    "\"export =\" 只能在 TypeScript 文件中使用。你就天天围着 TS 转吧，天天写 TS 搞得什么语言都像是 TS，你这辈子就跟 TS 过吧，哪天你变成 TS 了都不奇怪"
+    "你就天天围着 TS 转吧，天天写 TS 搞得什么语言都像是 TS，你这辈子就跟 TS 过吧，哪天你变成 TS 了都不奇怪"
   ],
   "export_modifier_cannot_be_applied_to_ambient_modules_and_module_augmentations_since_they_are_always__2668": [
     "\"export\" 修饰符不可用于环境模块和模块扩大，因为它们始终可见。"

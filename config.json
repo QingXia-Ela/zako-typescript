@@ -1,4 +1,5 @@
 {
   "lang": "zako/zh-cn",
-  "basicLang": "zh-cn"
+  "basicLang": "zh-cn",
+  "showDefaultTip": true
 }
