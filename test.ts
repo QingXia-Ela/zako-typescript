@@ -1,3 +1,3 @@
-a
+const a = 1
 
-let a: number = '';
+a = 2

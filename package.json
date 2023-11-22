@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "ztsc": "bin/ztsc.js"
+  },
   "files": [
     "/lib",
     "/lang",
@@ -18,6 +21,9 @@
   "keywords": [
     "typescript"
   ],
+  "scripts": {
+    "ztsc": "node ./bin/ztsc.js"
+  },
   "author": "",
   "license": "MIT"
 }
