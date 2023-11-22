@@ -22,7 +22,8 @@
     "typescript"
   ],
   "scripts": {
-    "ztsc": "node ./bin/ztsc.js"
+    "ztsc": "node ./bin/ztsc.js",
+    "generate": "node ./bin/generate.js"
   },
   "author": "",
   "license": "MIT"
