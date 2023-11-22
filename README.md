@@ -23,6 +23,8 @@
 - 在 VSCode 设置中找到 `typescript.tsdk` 选项，并将他指向仓库文件夹内的 `/lib` 文件夹
 - 重启 IDE，或重启 TS 语言服务器，就可以看到效果了
 
+你可以定期同步本仓库获取最新的语句更替
+
 #### 作为项目依赖
 
 - 下载依赖：`npm i --save-dev zako-typescript`

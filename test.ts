@@ -1,3 +1,7 @@
-const a = 1
+'use strict'
+
+const a
 
 a = 2
+
+delete a

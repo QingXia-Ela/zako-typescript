@@ -5383,7 +5383,8 @@ var msg = {
     "\"const\" 声明只能在块的内部声明。"
   ],
   "const_declarations_must_be_initialized_1155": [
-    "必须初始化 \"const\" 声明。"
+    "必须初始化 \"const\" 声明。",
+    "杂鱼~ 连 \"const\" 初始化声明都能忘记，大叔是不是导多了脑袋都变笨了❤~"
   ],
   "const_enum_member_initializer_was_evaluated_to_a_non_finite_value_2477": [
     "\"const\" 枚举成员初始化表达式的求值结果为非有限值。"
@@ -5407,13 +5408,15 @@ var msg = {
     "默认值:"
   ],
   "delete_cannot_be_called_on_an_identifier_in_strict_mode_1102": [
-    "在严格模式下，无法对标识符调用 \"delete\"。"
+    "在严格模式下，无法对标识符调用 \"delete\"。",
+    "大叔你怎么敢在严格模式下用 \"delete\" 这个关键字，好好反思你的代码为什么会用这个关键字喵❤~。假如想通过移除严格模式语句来解决问题那大叔也太弱了❤"
   ],
   "export_Asterisk_does_not_re_export_a_default_1195": [
     "\"export *\" 不会重新导出默认值。"
   ],
   "export_can_only_be_used_in_TypeScript_files_8003": [
-    "\"export =\" 只能在 TypeScript 文件中使用。"
+    "\"export =\" 只能在 TypeScript 文件中使用。",
+    "\"export =\" 只能在 TypeScript 文件中使用。你就天天围着 TS 转吧，天天写 TS 搞得什么语言都像是 TS，你这辈子就跟 TS 过吧，哪天你变成 TS 了都不奇怪"
   ],
   "export_modifier_cannot_be_applied_to_ambient_modules_and_module_augmentations_since_they_are_always__2668": [
     "\"export\" 修饰符不可用于环境模块和模块扩大，因为它们始终可见。"
@@ -5458,10 +5461,12 @@ var msg = {
     "已看到 \"implements\" 子句。"
   ],
   "implements_clauses_can_only_be_used_in_TypeScript_files_8005": [
-    "\"implements\" 子句只能在 TypeScript 文件中使用。"
+    "\"implements\" 子句只能在 TypeScript 文件中使用。",
+    "杂鱼~ \"implements\" 只能在 TypeScript 文件中用的，你就天天围着 TS 转吧。"
   ],
   "import_can_only_be_used_in_TypeScript_files_8002": [
-    "\"import ... =\" 只能在 TypeScript 文件中使用。"
+    "\"import ... =\" 只能在 TypeScript 文件中使用。",
+    "杂鱼~ \"import ... =\" 只能在 TypeScript 文件中用的，你就天天围着 TS 转吧。"
   ],
   "infer_declarations_are_only_permitted_in_the_extends_clause_of_a_conditional_type_1338": [
     "仅条件类型的 \"extends\" 子句中才允许 \"infer\" 声明。"
