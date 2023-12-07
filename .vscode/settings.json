@@ -1,3 +1,7 @@
 {
-  "typescript.tsdk": "./lib"
+  "typescript.tsdk": "./lib",
+  "codeium.enableConfig": {
+    "typescript": false,
+    "javascript": false
+  }
 }

@@ -759,13 +759,15 @@ var msg = {
     "动态导入的参数不能是扩展元素。"
   ],
   "Argument_of_type_0_is_not_assignable_to_parameter_of_type_1_2345": [
-    "类型“{0}”的参数不能赋给类型“{1}”的参数。"
+    "类型“{0}”的参数不能赋给类型“{1}”的参数。",
+    "明明“{0}” 不能赋给“{1}” 却还要强行注入，难道大叔喜欢这种玩法吗❤，只能说不愧是杂鱼大叔能做出来的事情❤"
   ],
   "Argument_of_type_0_is_not_assignable_to_parameter_of_type_1_with_exactOptionalPropertyTypes_Colon_tr_2379": [
     "类型为“{0}”的参数不能分配给类型为“{1}”且 “exactOptionalPropertyTypes: true” 的参数。请考虑将 “undefined” 添加到目标属性的类型。"
   ],
   "Arguments_for_the_rest_parameter_0_were_not_provided_6236": [
-    "未提供 rest 形参“{0}”的实参。"
+    "未提供 rest 形参“{0}”的实参。",
+    "杂鱼❤~ rest 形参 “{0}” 还没有提供喵"
   ],
   "Array_element_destructuring_pattern_expected_1181": [
     "应为数组元素析构模式。"
@@ -777,7 +779,7 @@ var msg = {
     "断言要求调用目标为标识符或限定名。"
   ],
   "Asterisk_Slash_expected_1010": [
-    "应为 \"*/\"。"
+    "得换成 \"*/\" 喵，大叔连这点都不会吗❤~。"
   ],
   "Augmentations_for_the_global_scope_can_only_be_directly_nested_in_external_modules_or_ambient_module_2669": [
     "全局范围的扩大仅可直接嵌套在外部模块中或环境模块声明中。"
@@ -810,10 +812,12 @@ var msg = {
     "用于解析非绝对模块名的基目录。"
   ],
   "BigInt_literals_are_not_available_when_targeting_lower_than_ES2020_2737": [
-    "目标低于 ES2020 时，BigInt 字面量不可用。"
+    "目标低于 ES2020 时，BigInt 字面量不可用。",
+    "杂鱼❤~ 当你的 tsconfig 设置目标低于 ES2020 时，BigInt 是不可用的哦❤~"
   ],
   "Binary_digit_expected_1177": [
-    "需要二进制数字。"
+    "需要二进制数字。",
+    "二进制数字都不会写？大叔真是弱喵❤~"
   ],
   "Binding_element_0_implicitly_has_an_1_type_7031": [
     "绑定元素“{0}”隐式具有“{1}”类型。"
@@ -835,7 +839,8 @@ var msg = {
     "生成选项 \"{0}\" 需要类型 {1} 的值。"
   ],
   "Building_project_0_6358": [
-    "正在生成项目“{0}”..."
+    "正在生成项目“{0}”...",
+    "生成项目“{0}”中，大叔忍一忍吧❤"
   ],
   "COMMAND_LINE_FLAGS_6921": [
     "命令行标记"
@@ -950,7 +955,8 @@ var msg = {
     "找不到全局值“{0}”。"
   ],
   "Cannot_find_lib_definition_for_0_2726": [
-    "找不到“{0}”的库定义。"
+    "找不到“{0}”的库定义。",
+    "找不到“{0}”的库定义喵，大叔是不是忘记安装了喵❤。",
   ],
   "Cannot_find_lib_definition_for_0_Did_you_mean_1_2727": [
     "找不到“{0}”的库定义。你是指“{1}”?"
@@ -1069,7 +1075,8 @@ var msg = {
     "无法更新项目 \"{0}\" 的输出，因为读取文件 \"{1}\" 时出错"
   ],
   "Cannot_use_JSX_unless_the_jsx_flag_is_provided_17004": [
-    "无法使用 JSX，除非提供了 \"--jsx\" 标志。"
+    "无法使用 JSX，除非提供了 \"--jsx\" 标志。",
+    "大叔明明没有设置 \"--jsx\" 标志，却还要强行使用，肯定是写react太多了导致身体都被react射满了❤"
   ],
   "Cannot_use_export_import_on_a_type_or_type_only_namespace_when_the_isolatedModules_flag_is_provided_1269": [
     "在提供 “--isolatedModules” 标志时，无法在类型或仅类型命名空间上使用“导出导入”。"
@@ -4862,13 +4869,15 @@ var msg = {
     "构造签名的类型不兼容。"
   ],
   "Types_of_parameters_0_and_1_are_incompatible_2328": [
-    "参数“{0}”和“{1}” 的类型不兼容。"
+    "参数“{0}”和“{1}” 的类型不兼容。",
+    "明明...“{0}”和“{1}” 这两种类型...不能兼容...却还要将他们合...并在一起，难道大叔喜欢...这种玩法吗...只好接受了呢❤"
   ],
   "Types_of_property_0_are_incompatible_2326": [
     "属性“{0}”的类型不兼容。"
   ],
   "Unable_to_open_file_0_6050": [
-    "无法打开文件“{0}”。"
+    "无法打开文件“{0}”。",
+    "杂鱼~ 明明这个文件“{0}”无法打开还要引入，哪天要是项目引入了一堆没安装的包导致工作流爆炸都不觉得奇怪喵❤"
   ],
   "Unable_to_resolve_signature_of_class_decorator_when_called_as_an_expression_1238": [
     "作为表达式调用时，无法解析类修饰器的签名。"
@@ -4937,7 +4946,8 @@ var msg = {
     "未知的监视选项 \"{0}\"。你是想使用 \"{1}\" 吗?"
   ],
   "Unreachable_code_detected_7027": [
-    "检测到无法访问的代码。"
+    "检测到无法访问的代码。",
+    "大叔你是怎么敢写这种代码的，肯定是导多了脑子不在线罢，宁可自己处理也不要小女子处理的吗，这倔强的样子也太弱了喵❤"
   ],
   "Unterminated_Unicode_escape_sequence_1199": [
     "未终止的 Unicode 转义序列。"
@@ -5015,16 +5025,20 @@ var msg = {
     "变量“{0}”隐式具有“{1}”类型。"
   ],
   "Variable_0_implicitly_has_an_1_type_but_a_better_type_may_be_inferred_from_usage_7043": [
-    "变量 \"{0}\" 隐式具有 \"{1}\" 类型，但可以从用法中推断出更好的类型。"
+    "变量 \"{0}\" 隐式具有 \"{1}\" 类型，但可以从用法中推断出更好的类型。",
+    "大叔你为什么不对变量 \"{0}\" 声明类型呢，不然它可要被判为 \"{1}\" 了，还得要小女子来帮你处理，大叔你也不想你的代码全被打上 any 的类型罢❤~"
   ],
   "Variable_0_implicitly_has_type_1_in_some_locations_but_a_better_type_may_be_inferred_from_usage_7046": [
-    "变量 \"{0}\" 在某些位置隐式具有类型 \"{1}\"，但可以从使用情况推断出更好的类型。"
+    "变量 \"{0}\" 在某些位置隐式具有类型 \"{1}\"，但可以从使用情况推断出更好的类型。",
+    "大叔你为什么不对变量 \"{0}\" 声明类型呢，不然它可要被判为 \"{1}\" 了，还得要小女子来帮你推断，大叔你也不想你的代码在 review 时被要求重做罢❤~"
   ],
   "Variable_0_implicitly_has_type_1_in_some_locations_where_its_type_cannot_be_determined_7034": [
-    "变量“{0}”在某些无法确定其类型的位置处隐式具有类型“{1}”。"
+    "变量“{0}”在某些无法确定其类型的位置处隐式具有类型“{1}”。",
+    "大叔你的变量“{0}”在某些地方可是被当成“{1}”了喵，要是再不处理就要被注入成各种类型了❤"
   ],
   "Variable_0_is_used_before_being_assigned_2454": [
-    "在赋值前使用了变量“{0}”。"
+    "在赋值前使用了变量“{0}”。",
+    "有笨蛋在变量“{0}”被声明之前就使用了喵，不被允许的行为却还要强制执行，好丢人喵~"
   ],
   "Variable_declaration_expected_1134": [
     "应为变量声明。"
@@ -5045,7 +5059,8 @@ var msg = {
     "版本 {0}"
   ],
   "Visit_https_Colon_Slash_Slashaka_ms_Slashtsconfig_to_read_more_about_this_file_95110": [
-    "请访问 https://aka.ms/tsconfig，了解有关此文件的详细信息"
+    "请访问 https://aka.ms/tsconfig，了解有关此文件的详细信息",
+    "点击这里前往 TS 乐园 -> https://aka.ms/tsconfig"
   ],
   "WATCH_OPTIONS_6918": [
     "监视选项"

@@ -1,7 +1,5 @@
 'use strict'
 
-const a
+function a(t: string) { }
 
-a = 2
-
-delete a
+a(1)
