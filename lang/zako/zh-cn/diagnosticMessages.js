@@ -510,10 +510,12 @@ var msg = {
     "抽象方法的所有声明必须是连续的。"
   ],
   "All_destructured_elements_are_unused_6198": [
-    "所有解构出的成员都未使用。"
+    "所有解构出的成员都未使用。",
+    "杂鱼❤~，所有解构的成员都没有使用，大叔是不是打算写出review会被打回的垃圾呢❤~"
   ],
   "All_imports_in_import_declaration_are_unused_6192": [
-    "导入声明中的所有导入都未使用。"
+    "导入声明中的所有导入都未使用。",
+    "杂鱼❤~，导入了这么多声明却一个都没用，大叔的代码跟大叔的生活一样糟糕呢❤~"
   ],
   "All_type_parameters_are_unused_6205": [
     "未使用任何类型参数。"
