@@ -3,5 +3,14 @@
   "codeium.enableConfig": {
     "typescript": false,
     "javascript": false
+  },
+  "files.associations": {
+    "*.excalidraw": "json",
+    "*.excalidrawlib": "json",
+    "*.vue": "vue",
+    "*.html": "html",
+    "*.md": "markdown",
+    "*.mdx": "mdx",
+    "test.h": "c"
   }
 }
